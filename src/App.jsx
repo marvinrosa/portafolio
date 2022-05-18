@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <h1> <span> <img src={logo} width={50} height={50}/> </span>marvinrosa <span>.dev</span></h1>
+      <h1 className="text-2xl"> <span> <img src={logo} width={50} height={50}/> </span>marvinrosa <span>.dev</span></h1>
       
     </div>
   )
